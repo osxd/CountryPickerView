@@ -1,21 +1,19 @@
 # CountryPickerView
 
-[![Build Status](https://travis-ci.org/kizitonwose/CountryPickerView.svg?branch=master)](https://travis-ci.org/kizitonwose/CountryPickerView)
-[![Platform](https://img.shields.io/badge/Platform-iOS-00BCD4.svg)](http://cocoapods.org/pods/CountryPickerView)
 [![Version](https://img.shields.io/cocoapods/v/CountryPickerView.svg?style=flat)](http://cocoapods.org/pods/CountryPickerView)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![SPM compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager)
-[![License](https://img.shields.io/badge/License-MIT-8D6E63.svg)](https://github.com/kizitonwose/CountryPickerView/blob/master/LICENSE.md)
+[![License](https://img.shields.io/badge/License-MIT-8D6E63.svg)](https://github.com/delivery-hero-tech/CountryPickerView/blob/master/LICENSE.md)
 
 CountryPickerView is a simple, customizable view for selecting countries in iOS apps.
 
-You can clone/download the repository and run the [demo project](https://github.com/kizitonwose/CountryPickerView/tree/master/CountryPickerViewDemo) to see CountryPickerView in action. First run `pod install` from the CountryPickerViewDemo directory.
+You can clone/download the repository and run the [demo project](https://github.com/delivery-hero-tech/CountryPickerView/tree/master/CountryPickerViewDemo) to see CountryPickerView in action. First run `pod install` from the CountryPickerViewDemo directory.
 
-<img align="left" src="https://raw.githubusercontent.com/kizitonwose/CountryPickerView/master/CountryPickerViewDemo/Screenshots/1.png" width="300">
-<img src="https://raw.githubusercontent.com/kizitonwose/CountryPickerView/master/CountryPickerViewDemo/Screenshots/2.png" width="300">
+<img align="left" src="https://raw.githubusercontent.com/delivery-hero-tech/CountryPickerView/master/CountryPickerViewDemo/Screenshots/1.png" width="300">
+<img src="https://raw.githubusercontent.com/delivery-hero-tech/CountryPickerView/master/CountryPickerViewDemo/Screenshots/2.png" width="300">
 
-<img align="left" src="https://raw.githubusercontent.com/kizitonwose/CountryPickerView/master/CountryPickerViewDemo/Screenshots/3.png" width="300">
-<img src="https://raw.githubusercontent.com/kizitonwose/CountryPickerView/master/CountryPickerViewDemo/Screenshots/4.png" width="300">
+<img align="left" src="https://raw.githubusercontent.com/delivery-hero-tech/CountryPickerView/master/CountryPickerViewDemo/Screenshots/3.png" width="300">
+<img src="https://raw.githubusercontent.com/delivery-hero-tech/CountryPickerView/master/CountryPickerViewDemo/Screenshots/4.png" width="300">
 
 
 ## Installation
@@ -46,7 +44,7 @@ end
 To install CountryPickerView through Carthage, simply add the following to your Cartfile:
 
 ```ruby
-github "kizitonwose/CountryPickerView"
+github "delivery-hero-tech/CountryPickerView"
 ```
 
 ### Manual
